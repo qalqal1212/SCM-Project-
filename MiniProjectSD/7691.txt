@@ -1,0 +1,14 @@
+Receipt no    : 27131
+Customer Name :Nurul
+Address       :Bangsar Kuala Lumpur
+Date          :2019/09/06 15:36:57
+
+-------------------------------------------------------------------------------------------------
+Your order    : 
+
+Yeezy Boost	  x  10.0	Size :10		 Total Price : RM  8005.00	Cash-On-Delivery : RM5.00 
+-------------------------------------------------------------------------------------------------
+
+subtotal      :8005.00
+tax 5%        :gst
+total         :8485.30
